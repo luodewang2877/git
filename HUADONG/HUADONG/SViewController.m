@@ -41,7 +41,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     [self initView];
-    [self initTopView:@"主页面"];
+    [self initTopView:@"主页面123"];
     [self initScroImage];
     [self startTimer];
     [self initMytravel];
