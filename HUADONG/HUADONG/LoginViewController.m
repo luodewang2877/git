@@ -27,7 +27,7 @@
     [super viewDidLoad];
     [self initBgView];
     [self initView];
-    [self initTopView:@"请登录"];
+    [self initTopView:@"请登录请登录"];
     
     
     // Do any additional setup after loading the view.
